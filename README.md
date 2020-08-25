@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex 👋
 
 ## I'm a Student!
-- 🔭 I’m currently working on a Multiplayer Game in Unity!
+- 🔭 I’m currently working on school related stuff!
 - 🥅 2020 Goals: Learn more about security and AI
 - ⚡ Fun fact: I love trying out new things
 
