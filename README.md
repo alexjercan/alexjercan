@@ -26,7 +26,20 @@
 
 ---
 
-<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexjercan&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexjercan&show_icons=true&hide_border=true" />
+</details>
 
 [instagram]: https://www.instagram.com/alex_jercan/?hl=ro
 [linkedin]: https://www.linkedin.com/in/alex-jercan-42636713a/
