@@ -26,7 +26,7 @@
 
 ---
 
-<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexjercan&show_icons=true&hide_border=true" />
+<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.alexjercan.vercel.app/api?username=alexjercan&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/alex_jercan/?hl=ro
 [linkedin]: https://www.linkedin.com/in/alex-jercan-42636713a/
