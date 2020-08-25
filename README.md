@@ -38,7 +38,9 @@
 
 <details>
     <summary>:zap: Github Stats</summary>
-    <img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexjercan&show_icons=true&hide_border=true" />
+    
+    <img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.alexjercan.vercel.app/api?username=alexjercan&show_icons=true&hide_border=true" />
+
 </details>
 
 [instagram]: https://www.instagram.com/alex_jercan/?hl=ro
