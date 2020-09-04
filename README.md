@@ -1,8 +1,8 @@
 ### Hi there, I'm Alex 👋
 
 ## I'm a Student!
-- 🔭 I’m currently working on school related stuff!
-- 🥅 2020 Goals: Learn more about security and AI
+- 🔭 I’m currently working on react project!
+- 🥅 2020 Goals: Learn more about operating systems
 - ⚡ Fun fact: I love trying out new things
 
 ### Connect with me:
