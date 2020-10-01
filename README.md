@@ -1,7 +1,7 @@
 ### Hi there, I'm Alex 👋
 
 ## I'm a Student!
-- 🔭 I’m currently working on a react project!
+- 🔭 I’m currently working on a c# image downloader!
 - 🥅 2020 Goals: Learn more about operating systems
 - ⚡ Fun fact: I love trying out new things
 
