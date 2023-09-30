@@ -22,7 +22,7 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexjercan&theme=transparent&count_private=false&hide_border=false&border_color=30363d" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjercan&layout=compact&langs_count=10&count_private=false&card_width=320&hide_border=false&theme=transparent&border_color=30363d&hide=jupyter" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjercan&layout=compact&langs_count=10&count_private=false&card_width=320&hide_border=false&theme=transparent&border_color=30363d&hide=jupyter%20notebook" />
 </a>
 
 <hr />
