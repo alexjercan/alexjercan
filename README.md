@@ -1,15 +1,20 @@
 # Hi there, I'm Alex 👋
 
-Neovim and Linux enjoyer. I like building random projects and documenting them
-on [YouTube](https://www.youtube.com/channel/UCQfbjXwtGuJ-7hDMmAm1-rA).
-
-## My goals 2023 🎯
+## About Me 🤓
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- Neovim and Linux enjoyer 🗿
+- I love learning new technologies and staying up to date
+- I build random demo projects and CLI tools
+
+## My goals 2023 🎯
 
 - learn WASM in Rust 🦀
 - PR bench press 100Kg 💪
 - get better at making content and presenting my projects 👨‍💻
+
+<br />
 
 [![SkillIcons](https://skillicons.dev/icons?i=py,ts,lua,c,flask,aws,linux,bash,git,github,neovim,html,css)](https://skillicons.dev)<br/>
 
