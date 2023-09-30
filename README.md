@@ -5,23 +5,28 @@ on [YouTube](https://www.youtube.com/channel/UCQfbjXwtGuJ-7hDMmAm1-rA).
 
 ## My goals 2023 🎯
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - learn WASM in Rust 🦀
 - PR bench press 100Kg 💪
 - get better at making content and presenting my projects 👨‍💻
 
 [![SkillIcons](https://skillicons.dev/icons?i=py,ts,lua,c,flask,aws,linux,bash,git,github,neovim,html,css)](https://skillicons.dev)<br/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexjercan&theme=transparent&count_private=false&hide_border=false&border_color=30363d" />
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjercan&layout=compact&langs_count=4&count_private=true&card_width=320&hide_border=false&theme=transparent&border_color=30363d" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjercan&layout=compact&langs_count=4&count_private=false&card_width=320&hide_border=false&theme=transparent&border_color=30363d" />
 </a>
 
-### Connect with me:
+<hr />
+
+## Connect with me:
 
 [<img align="left" alt="alexjercan | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="alexjercan | Instagram" width="22px" src="./assets/instagram.svg" />][instagram]
 [<img align="left" alt="alexjercan | YouTube" width="22px" src="./assets/youtube.svg" />][youtube]
-
-<br />
 
 [instagram]: https://www.instagram.com/alex_jercan/?hl=ro
 [linkedin]: https://www.linkedin.com/in/alex-jercan-42636713a/
