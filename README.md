@@ -16,7 +16,7 @@
 
 <br />
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,ts,lua,c,flask,aws,linux,bash,git,github,neovim,html,css)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=py,ts,lua,c,rust,flask,aws,linux,bash,git,github,neovim,html,css)](https://skillicons.dev)<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexjercan&theme=transparent&count_private=false&hide_border=false&border_color=30363d" />
