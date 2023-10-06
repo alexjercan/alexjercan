@@ -10,8 +10,8 @@
 
 ## My goals 2023 🎯
 
-- learn WASM in Rust 🦀
-- PR bench press 100Kg 💪
+- ~~ learn WASM in Rust 🦀 ~~
+- PR bench press (5x90Kg) 100Kg 💪
 - get better at making content and presenting my projects 👨‍💻
 
 <br />
