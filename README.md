@@ -27,6 +27,10 @@
 
 <hr />
 
+## Check more content
+
+On the blog site <https://alexjercan.github.io/>
+
 ## Connect with me:
 
 [<img align="left" alt="alexjercan | LinkedIn" width="22px" src="./assets/linkedin.svg" />][linkedin]
