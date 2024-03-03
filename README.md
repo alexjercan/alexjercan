@@ -11,7 +11,7 @@
 ## My goals 2024 🎯
 
 - Create a Game in Bevy 🦀
-- Bench press 100Kg for 8 reps (3) 💪
+- Bench press 100Kg for 12 reps (3) 💪
 
 <br />
 
