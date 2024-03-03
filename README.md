@@ -11,17 +11,12 @@
 ## My goals 2024 🎯
 
 - Create a Game in Bevy 🦀
-- Bench press 100Kg for 12 reps (3) 💪
+- Bench press 100Kg for 8 reps (3) 💪
 
 <br />
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,ts,lua,c,rust,flask,aws,linux,bash,git,github,neovim,html,css)](https://skillicons.dev)<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=alexjercan&theme=transparent&count_private=false&hide_border=false&border_color=30363d" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjercan&layout=compact&langs_count=10&count_private=false&card_width=320&hide_border=false&theme=transparent&border_color=30363d&hide=jupyter%20notebook,html" />
+<a href="https://2kabhishek.github.io/projects" target="_blank" title="GitHub metrics!">
+    <img width="500" src="https://raw.githubusercontent.com/alexjercan/alexjercan/master/assets/gen/metrics.svg" />
 </a>
 
 <hr />
