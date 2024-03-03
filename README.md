@@ -15,6 +15,8 @@
 
 <br />
 
-<a href="https://alexjercan.github.io/" target="_blank" title="GitHub metrics!">
-    <img width="500" src="https://raw.githubusercontent.com/alexjercan/alexjercan/master/assets/gen/metrics.svg" />
-</a>
+<div align="center">
+    <a href="https://alexjercan.github.io/" target="_blank" title="GitHub metrics!">
+        <img width="500" src="https://raw.githubusercontent.com/alexjercan/alexjercan/master/assets/gen/metrics.svg" />
+    </a>
+</div>
