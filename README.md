@@ -11,7 +11,7 @@
 ## My goals 2025 🎯
 
 - Write better code 🧑‍💻
-- Bench press 100Kg for 8 reps (3) 💪
+- Bench press 100Kg for 8 reps (5) 💪
 
 <br />
 
