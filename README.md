@@ -5,18 +5,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - Neovim and Linux enjoyer 🗿
-- I love learning new technologies and staying up to date
 - I build random demo projects and CLI tools
+- I love learning new technologies and staying up to date
 
-## My goals 2025 🎯
+## My goals 2026 🎯
 
 - Write better code 🧑‍💻
 - Bench press 100Kg for 8 reps (5) 💪
-
-<br />
-
-<div align="center">
-    <a href="https://alexjercan.github.io/" target="_blank" title="GitHub metrics!">
-        <img width="500" src="https://raw.githubusercontent.com/alexjercan/alexjercan/master/assets/gen/metrics.svg" />
-    </a>
-</div>
